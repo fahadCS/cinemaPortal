@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.elm.gcam",
+      "nativeLanguage": "ar-ly"
+    },
+    "jhipsterVersion": "4.14.1",
+    "baseName": "cinemaPortal",
+    "packageName": "com.elm.gcam",
+    "packageFolder": "com/elm/gcam",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "fcff208f04a134133f72fb3a0c77a5c95993d54f",
+    "clientFramework": "angular1",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "ar-ly",
+    "languages": [
+      "ar-ly",
+      "en"
+    ]
+  }
+}
